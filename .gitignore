@@ -13,3 +13,4 @@ examples/other/dolfin/.ipynb
 docs/build/
 docs/source/content
 docs/source/index.rst
+.vscode/settings.json
